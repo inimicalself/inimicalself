@@ -3,6 +3,8 @@
 - 🌟 特长是数字及语言文字
 - 🌱 爱好是自然、手工和谷歌搜索...
 
+放弃说明：本人主页整理的所有文献目录都不属于我，除原创或表明特殊声明外都可转载。
+
 <!---
 inimicalself/inimicalself is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
